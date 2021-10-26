@@ -2,6 +2,14 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/SR/Documents/NetBeansProjects/ToDoList/src/ToDoList/TaskAdd.java</file>
+            <file>file:/C:/Users/SR/Documents/NetBeansProjects/ToDoList/src/ToDoList/ViewTask.java</file>
+            <file>file:/C:/Users/SR/Documents/NetBeansProjects/ToDoList/src/ToDoList/SendMsg.java</file>
+            <file>file:/C:/Users/SR/Documents/NetBeansProjects/ToDoList/src/ToDoList/DeleteTask.java</file>
+            <file>file:/C:/Users/SR/Documents/NetBeansProjects/ToDoList/src/ToDoList/NewJFrame.java</file>
+            <file>file:/C:/Users/SR/Documents/NetBeansProjects/ToDoList/src/ToDoList/SendSms.java</file>
+            <file>file:/C:/Users/SR/Documents/NetBeansProjects/ToDoList/src/ToDoList/DataBase.java</file>
+        </group>
     </open-files>
 </project-private>
